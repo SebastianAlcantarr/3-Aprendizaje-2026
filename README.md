@@ -1,4 +1,4 @@
-# Miniproyecto 2: Aprendizaje Automático con árboles de desición
+# Miniproyecto 3: Aprendizaje Automático con árboles de desición
 
 En este proyecto vamos a repasar un poco las ideas básicas de aprendizaje supervisado, 
 tratando de ejemplificar los métodos utilizando árboles de desición y bosques aleatorios.
